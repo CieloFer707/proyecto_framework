@@ -1,10 +1,51 @@
 .card-body {
-    text-align: center;
-    background-color: aqua;
+    text-align: center justify;
+    background-color: #85431e;
     padding: 1rem;
     justify-content: center;
+    color:#EACEAA;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
 }
+
+
 
 .titulos {
     text-align: center;
 }
+
+.card-title {
+    text-align: center;
+}
+
+body {
+    background-color: #EACEAA;
+}
+
+#boton {
+    background-color: #34150F;
+    border-color: #1d0b08;
+}
+
+.titulos {
+    color: #1d0b08;
+}
+
+img {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-color: #EACEAA;
+}
+
+.nav-link {
+    color: #EACEAA;
+}
+
+.navbar-brand {
+    color:#EACEAA;
+}
+
+#boo {
+    color:#EACEAA;
+}
+
